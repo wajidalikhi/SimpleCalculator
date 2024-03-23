@@ -26,3 +26,5 @@ if (answer.operators === "Addition") {
 } else{
     console.log("Please Select one of the operator");
 }
+
+console.log("THE END")
